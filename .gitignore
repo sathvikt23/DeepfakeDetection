@@ -67,7 +67,7 @@ Desktop.ini
 *.log
 
 # Pickle files
-*.pkl
+
 
 # dlib folder (ignored completely)
 dlib/
